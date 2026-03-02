@@ -6,6 +6,7 @@ This is my first attempt at participating in a Kaggle contest and building a pre
 
 ## Information about the Contest
 
+The following link contains all details of the contest, the scoring metrics and the datasets for training and testing.  
 [Link to the Kaggle Contest](https://www.kaggle.com/competitions/playground-series-s6e2/overview)
 
 ## My Approach
